@@ -66,5 +66,3 @@ function getAPI() {
     });
 }
 ;
-// async function getTournamentName(): promise<string> {
-// }
